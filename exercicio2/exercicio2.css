@@ -1,0 +1,38 @@
+body{
+    background-color: maroon;
+}
+header{
+    text-align: center;
+    color: white;
+    -webkit-text-stroke: 1px black;
+}
+section{
+    padding: 25px 25px 25px 25px;
+    margin: auto;
+    background-color: white;
+    width: 600px;
+    border-radius: 20px;
+}
+footer{
+    text-align: center;
+    color: white;
+    -webkit-text-stroke: 0.2px black;
+}
+.paragrafo{
+    text-align: center;
+}
+#foto{
+    padding-top: 20px;
+    border-radius: 100%;
+    width: 200px;
+    height: 200px;
+}
+.form{
+    border: solid 2px maroon;
+    padding: 5px 10px 5px 10px;
+}
+a{
+    display: flex;
+    flex-direction: row;
+    color: black;
+}

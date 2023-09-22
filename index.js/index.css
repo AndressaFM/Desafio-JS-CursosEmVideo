@@ -1,0 +1,29 @@
+body{
+    background-image: url(../imagens/pexels-mateusz-dach-450035.jpg);
+    background-position: center;
+}
+h1{
+    color: white;
+    text-align: center;
+    font-size: 60px;
+    -webkit-text-stroke: 1.5px black;
+    text-shadow: 3px 1px rgba(245, 245, 245, 0.654);
+}
+.lista{
+    margin: auto;
+    text-align: center;
+    border: solid 2px black;
+    width: 250px;
+    height: 170px;
+    background-color: rgba(0, 0, 0, 0.362);
+}
+a{
+    color: white;
+    margin-top: 10px;
+}
+p{
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    -webkit-text-stroke: 0.2px black;
+}

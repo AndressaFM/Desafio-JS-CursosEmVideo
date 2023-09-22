@@ -1,0 +1,56 @@
+body{
+    background-color: aquamarine;
+}
+header{
+    text-align: center;
+    color: black;
+    -webkit-text-stroke: 0.5px white;
+}
+p{
+    color: blueviolet;
+}
+section{
+    padding: 25px 25px 25px 25px;
+    margin: auto;
+    background-color: white;
+    width: 600px;
+    border-radius: 20px;
+}
+footer{
+    text-align: center;
+    color: white;
+    -webkit-text-stroke: 0.2px black;
+}
+.paragrafo{
+    text-align: center;
+}
+#foto{
+    padding-top: 20px;
+    border-radius: 100%;
+    width: 200px;
+    height: 200px;
+}
+.form{
+    border: solid 2px darkblue;
+    padding: 5px 10px 5px 10px;
+}
+select{
+    width: 200px;
+    height: 200px;
+    margin: auto;
+    text-align: center;
+    margin: 20px 5px;
+    color: blueviolet;
+    background-color: rgba(127, 255, 212, 0.175);
+}
+button{
+    border-radius: 2%;
+    color: blueviolet;
+    border: solid 0.5px blueviolet;
+    -webkit-text-stroke: 0.5px rgba(0, 0, 255, 0.391);
+}
+a{
+    display: flex;
+    flex-direction: row;
+    color: black;
+}
